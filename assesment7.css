@@ -1,0 +1,40 @@
+body{
+  background-image: url("abc.jpg");
+  background-repeat: no-repeat;
+}
+h1{
+  color:red;
+}
+p{
+  color:white;
+}
+ol{
+  color:red;
+}
+h2{
+  color:blue;
+}
+
+#keshav{
+  color: #5499C7 ;
+}
+
+textarea{
+  background-color: silver;
+  border:15px;
+  border-color: green;
+}
+.abc{
+  background-color:blue;
+}
+
+.b{
+  background-color: green
+}
+
+input{
+  border-color:black ;
+  border-width: thick;
+  border-radius: 4px;
+
+}
