@@ -21,6 +21,8 @@ function changeMarker(){
   }
 }
 
+
+
 for (var i = 0; i < squares.length; i++) {
   squares[i].addEventListener('click',changeMarker)
 
